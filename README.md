@@ -11,3 +11,5 @@ Key Insights from the Analysis
 4. Geographical Trends: States like California have significantly higher EV adoption rates, likely due to state incentives, infrastructure investments, and consumer awareness.
 5. Range Limitations: The average electric range is 67.83 miles, highlighting the need for continued advancements in battery technology to improve EV usability.
 6. Incentive Awareness Gap: A large portion of EVs have unknown CAFV eligibility, indicating potential gaps in public awareness regarding government incentives.
+
+🔗 Dashboard Link: https://public.tableau.com/app/profile/rohan.k7447/viz/ElectricVehicles_17404222080330/ElectricVehicleDataAnalysis?publish=yes
